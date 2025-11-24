@@ -72,3 +72,4 @@ The program successfully created two Car objects and displayed their details:
 Car 1 is a Toyota Innova manufactured in 2022.
 
 Car 2 is a Hyundai i20 manufactured in 2021.
+
